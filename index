@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CloudActive Labs</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {margin:0; font-family: Arial; background:#0b1c2c; color:white;}
+    .hero {padding:100px 20px; text-align:center;}
+    h1 {font-size:40px;}
+    p {max-width:600px; margin:auto;}
+    .btn {
+      margin-top:20px;
+      display:inline-block;
+      padding:12px 25px;
+      background:#ff6b00;
+      color:white;
+      text-decoration:none;
+      border-radius:5px;
+    }
+    section {padding:60px 20px; text-align:center;}
+  </style>
+</head>
+
+<body>
+
+<div class="hero">
+  <h1>Hire Dedicated Developers</h1>
+  <p>Scale your business with expert web, mobile, and cloud developers.</p>
+  <a href="#" class="btn">Get Free Consultation</a>
+</div>
+
+<section>
+  <h2>Our Services</h2>
+  <p>Web Development | Mobile Apps | Dedicated Developers | UI/UX Design</p>
+</section>
+
+<section>
+  <h2>Why Choose Us</h2>
+  <p>Expert Team | Agile Delivery | Scalable Solutions | Transparent Support</p>
+</section>
+
+<section>
+  <h2>Contact Us</h2>
+  <p>📞 +91 987 133 9998</p>
+</section>
+
+</body>
+</html>
